@@ -25,7 +25,7 @@
 # print(str(num) + " raqamidan kegin " + str(num + 1) + " keladi")
 # print(str(num) + " raqamidan oldin " + str(num - 1) + " keladi")
 
-# str_1 = "bObUR MURTazoyEV"
+# str_1 = "Abdurahmon Qo'Chqorov"
 
 # print(str_1.lower())  ### lower() -- barcha harflarni kichik holatga keltirib beradi
 # print(str_1.capitalize())  ### capitalize() -- bu birinchi harfni katta qilib qaytaradi
